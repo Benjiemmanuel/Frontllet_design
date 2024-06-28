@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Frontllet_design/static/css/main.8b176c25.css",
-    "main.js": "/Frontllet_design/static/js/main.8d30b68b.js",
+    "main.css": "/Frontllet_design/static/css/main.a81609e3.css",
+    "main.js": "/Frontllet_design/static/js/main.13bf8d4e.js",
     "static/js/453.c48af57e.chunk.js": "/Frontllet_design/static/js/453.c48af57e.chunk.js",
     "index.html": "/Frontllet_design/index.html",
-    "main.8b176c25.css.map": "/Frontllet_design/static/css/main.8b176c25.css.map",
-    "main.8d30b68b.js.map": "/Frontllet_design/static/js/main.8d30b68b.js.map",
+    "main.a81609e3.css.map": "/Frontllet_design/static/css/main.a81609e3.css.map",
+    "main.13bf8d4e.js.map": "/Frontllet_design/static/js/main.13bf8d4e.js.map",
     "453.c48af57e.chunk.js.map": "/Frontllet_design/static/js/453.c48af57e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b176c25.css",
-    "static/js/main.8d30b68b.js"
+    "static/css/main.a81609e3.css",
+    "static/js/main.13bf8d4e.js"
   ]
 }
