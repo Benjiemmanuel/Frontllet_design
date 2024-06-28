@@ -11,6 +11,7 @@
   flex-direction: column;
   align-items: start;
   display: flex;
+  top: 87px;
   width: 491px;
   margin-left: 120px;
 }

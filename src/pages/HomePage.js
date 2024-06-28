@@ -2,8 +2,10 @@ import React from "react";
 import Header from "../components/Header";
 import HeroSection from "../components/HeroSection";
 import Quote from "../components/Quote";
-import Layout from "../components/Layout";
-// import AreaOfFocus from "../components/AreaOfFocus";
+import Layout from "../components/NetworlOfBuilders";
+import AreaOfFocus from "../components/AreaOfFocus";
+import OurConceptInnovations from "../components/OurConceptInnovations";
+import OurService from "../components/OurService";
 
 const HomePage = () => {
   return (
@@ -12,7 +14,9 @@ const HomePage = () => {
       <HeroSection />
       <Quote />
       <Layout />
-      {/* <AreaOfFocus /> */}
+      <AreaOfFocus />
+      <OurConceptInnovations />
+      <OurService/>
     </div>
   );
 };

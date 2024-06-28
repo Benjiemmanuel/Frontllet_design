@@ -1,6 +1,6 @@
 import React from "react";
 import { FaArrowRight } from "react-icons/fa";
-import styles from "../styles/Layout.module.css";
+import styles from "../styles/NetworkOfBuilders.module.css";
 
 const Layout = () => {
   return (

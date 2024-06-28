@@ -1,0 +1,65 @@
+.innovationscontainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  top: 2102px;
+  padding: 0px 120px 0px 120px;
+  gap: 64px;
+}
+
+.innovationsheader {
+  display: flex;
+  width: 934px;
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+}
+.innovationsheader h2 {
+  width: 645px;
+  font-weight: 500;
+  font-size: 56px;
+  line-height: 67.2px;
+  font-family: Matter;
+}
+
+.innovationsheader p {
+  width: 934px;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+  font-family: Matter;
+  line-height: 22.4px;
+}
+
+.innovations {
+  width: 1200px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.innovationItem {
+  width: 352px;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 12px;
+  height: 212px;
+  align-items: center;
+  padding: 20px 16px 20px 16px;
+  display: flex;
+}
+.innovationItemTitle {
+  width: 179px;
+  font-size: 22px;
+  line-height: 26.4px;
+  font-weight: 500;
+  font-family: Matter;
+}
+.innovationItemMessage {
+  width: 320px;
+  font-size: 16px;
+  line-height: 22.4px;
+  text-align: center;
+  font-weight: 400;
+  font-family: Matter;
+}

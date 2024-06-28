@@ -1,0 +1,167 @@
+.OurServiceContainer {
+  display: flex;
+  padding: 0px 120px 0px 120px;
+  flex-direction: column;
+  align-items: center;
+}
+.OurServiceHeader {
+  width: 939px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.OurServiceHeader h2 {
+  width: 756px;
+  font-size: 56px;
+  font-family: Matter;
+  font-weight: 500;
+  line-height: 67.2px;
+}
+.OurServiceHeader p {
+  width: 934px;
+  font-family: Matter;
+  font-size: 17px;
+  font-weight: 400;
+  line-height: 23.8px;
+  text-align: center;
+}
+.OurServiceSecondContainer {
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+}
+.OurServiceHypothesisContainer {
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+}
+.OurServiceHypothesisHeader {
+  width: 552px;
+  display: flex;
+  flex-direction: column;
+}
+.OurServiceHypothesisHeader h3 {
+  width: 164px;
+  font-size: 32px;
+  font-weight: 500;
+  color: #212121;
+  line-height: 38.4px;
+  font-family: Matter;
+}
+.OurServiceHypothesisHeader p {
+  width: 552px;
+  font-weight: 400;
+  font-size: 17px;
+  line-height: 23.8px;
+  color: #212121;
+  font-family: Matter;
+}
+.OurServiceThreeItemsContainer {
+  width: 1200px;
+  display: flex;
+  gap: 16px;
+  justify-content: space-between;
+}
+.OurServiceHypothesisitem {
+  width: 380px;
+  background-color: #ffffff;
+  border-radius: 12px;
+  padding: 20px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+}
+.shape_Objects {
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 40px solid #ff78bf;
+}
+.diamond {
+  width: 0;
+  height: 0;
+  border: 20px solid transparent;
+  border-bottom: 20px solid #20888f;
+  position: relative;
+  top: -20px;
+}
+.pentagonFivesize {
+  width: 40px;
+  height: 40px;
+  background: #ff78bf;
+  clip-path: polygon(50% 0%, 100% 38%, 82% 100%, 18% 100%, 0% 38%);
+}
+.diamond::after {
+  content: "";
+  position: absolute;
+  left: -20px;
+  top: 20px;
+  width: 0;
+  height: 0;
+  border: 20px solid transparent;
+  border-top: 20px solid #20888f;
+}
+.OurServiceHypothesisitem P {
+  width: 340px;
+  font-size: 17px;
+  line-height: 22.1px;
+  font-weight: 400;
+  font-family: Matter;
+  text-align: justify;
+}
+.OurServiceCaseStudyContainer {
+  width: 1002px;
+}
+
+.OurServiceCaseTitle {
+  font-size: 32px;
+  font-weight: 500;
+  font-family: Matter;
+  line-height: 38.4px;
+}
+.OurServiceCaseMessage {
+  width: 1002px;
+  font-weight: 400;
+  size: 17px;
+  color: #4e4e4e;
+  line-height: 23.8px;
+}
+.caseButtonContainer {
+  display: flex;
+  gap: 12px;
+}
+.caseButtonContainer button {
+  height: 48px;
+  border-radius: 24px;
+  border: 0.5px solid #a4a4a4;
+  padding: 12px 32px 12px 32px;
+  display: flex;
+  font-size: 20px;
+  font-weight: 400;
+  color: #212121;
+  background-color: #ffffff;
+  line-height: 24px;
+  font-family: Matter;
+  gap: 80px;
+}
+.becomeAServiceContainer {
+  width: 235.97px;
+  align-items: center;
+  display: flex;
+}
+.becomeAServiceContainer p {
+  width: 212px;
+  font-size: 16px;
+  line-height: 34.5px;
+  cursor: pointer;
+  color: #212121;
+  font-weight: 600;
+  text-decoration: underline;
+}
+.OurServiceIconsBack {
+  width: 15.5px;
+  height: 15.5px;
+  rotate: 45;
+  cursor: pointer;
+}
